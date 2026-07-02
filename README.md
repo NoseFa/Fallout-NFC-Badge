@@ -1,6 +1,6 @@
 # Fallout NFC badge
 
-An NFC badge made for Hack Club Fallout. The badge was made to fit the holders / landyards given to us at the event. The badge includes an nfc tag and a whitescreen with a QR code to the fallout home page and a code to my github profile on the back side. I will probably program the nfc tag to forward to the photo site so I can quickly give people access to it. This was also one of my first KiCad projects with PCBA components so it's pretty bare bones and simple. 
+An NFC badge made for Hack Club Fallout. This project was done on the first full day of Hack Club Fallout as a PCB sprint project. We had around like 7-8h from start to finish. The badge was made to fit the holders / landyards given to us at the event. The badge includes an nfc tag and a whitescreen with a QR code to the fallout home page and a code to my github profile on the back side. I will probably program the nfc tag to forward to the photo site so I can quickly give people access to it. This was also one of my first KiCad projects with PCBA components so it's pretty bare bones and simple. 
 
 ![Front side](./media/Front.png)
 
