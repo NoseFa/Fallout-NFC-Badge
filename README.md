@@ -9,3 +9,7 @@ Front side with the NFC tag area, Fallout logo, soup (Fallout's mascot) and a QR
 ![Back side](./media/Back.png)
 
 Back side with the Hack Club flag and QR code to my GitHub
+
+## The PCB files
+
+I made this project in KiCad and got it manufactured by JLCPCB as a PCBA. When ordering keep in mind that the antenna might be listed as a part but it doesn't need to be placed so when it gives an error for the antenna not having a part mapped to it in the BOM thats normal. You can find the manufacturing files in [kicad/jlcpcb/production_files](./jlcpcb/production_files/). It includes the gerbers and the BOM.
